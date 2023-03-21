@@ -240,7 +240,6 @@ flutter:
     - packages/flutter_tex/js/mathjax/jax/output/SVG/fonts/STIX-Web/Alphabets/Regular/Main.js
     - packages/flutter_tex/js/mathjax/jax/output/SVG/fonts/STIX-Web/Shapes/Regular/Main.js
     - packages/flutter_tex/js/mathjax/jax/output/SVG/fonts/STIX-Web/Misc/Regular/Main.js
-    - packages/flutter_tex/js/mathjax/jax/output/SVG/fonts/STIX-Web/NonUnicode/Regular/Main.js
     - packages/flutter_tex/js/mathjax/jax/output/SVG/fonts/STIX-Web/Normal/Regular/Main.js
     - packages/flutter_tex/js/mathjax/jax/output/SVG/fonts/STIX-Web/Variants/Regular/Main.js
     - packages/flutter_tex/js/mathjax/jax/output/SVG/fonts/STIX-Web/Size4/Regular/Main.js
